@@ -40,3 +40,18 @@ a {
     color-scheme: dark;
   }
 }
+ul{
+  background-color: green;
+  color:white;
+
+}
+li{
+  display: inline-block;
+  padding: 30px;
+  font-style: none;
+
+}
+img{
+  
+  background-position: contain;
+}
